@@ -18,4 +18,7 @@ Aplicación en Java que permite crear una hamburguesa ingresando sus ingrediente
 App.java
 
 ## 👩‍💻 Autor
-Ivonne Dayana Sánchez Contreras 
+- Ivonne Dayana Sánchez Contreras 
+- Aprendiz SENA 
+- Desarrollo de Software 
+- Ficha: 3311983
