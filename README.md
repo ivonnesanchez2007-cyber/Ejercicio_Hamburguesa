@@ -15,7 +15,6 @@ Aplicación en Java que permite crear una hamburguesa ingresando sus ingrediente
 - App.java: Contiene el método main y la interacción con el usuario
 
 ## ⚙️ Ejecución
-Ejecutar el archivo:
 App.java
 
 ## 👩‍💻 Autor
